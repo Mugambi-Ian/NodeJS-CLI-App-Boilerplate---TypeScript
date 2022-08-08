@@ -8,7 +8,9 @@
     "type": "git",
     "url": "https://github.com/Mugambi-Ian/NodeJS-Terminal-Template---TypeScript"
   },
-  "main": "index.js",
+  "engines": {
+    "node": ">=14.0.0"
+  },
   "scripts": {
     "lint": "gts lint",
     "dev": "tsc-watch --noClear -p ./tsconfig.json --onSuccess \"node ./build/src/index.js\"",
