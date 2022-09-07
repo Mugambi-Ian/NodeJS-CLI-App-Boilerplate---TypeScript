@@ -1,6 +1,6 @@
-# NodeJS CLI App Boilerplate
-🚀 Boilerplate and Starter for Node CLI applications.
-⚡️ Made with regard to market standards:TypeScript, ESLint, Prettier, Commitlint, VSCode.
+# NodeJS CLI App Boilerplate  
+🚀 Boilerplate and Starter for Node CLI applications.  
+⚡️ Made for best developer expirence: TypeScript, ESLint, Prettier, Commitlint, VSCode.
 
 Clone this project to create your own awesome Node CLI App.
 
