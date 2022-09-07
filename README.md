@@ -39,7 +39,7 @@ npm run dev
 You can see the results locally in production mode with:
 
 ```shell
-$ npm run build
+$ npm run export
 $ node ./build/index.js
 ```
 
