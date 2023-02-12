@@ -22,6 +22,7 @@
     "dev": "run-s preexport watch",
     "preexport": "npx rimraf build",
     "prepare": "husky install",
+    "check-types": "tsc --noEmit",
     "watch": "tsc-watch --noClear -p ./tsconfig.json --onSuccess \"node ./build/index.js\""
   },
   "dependencies": {
